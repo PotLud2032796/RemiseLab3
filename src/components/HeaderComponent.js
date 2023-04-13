@@ -29,7 +29,7 @@ function HeaderComponent(props) {
         </div>
     </nav>
     {/* IMAGE PERSONNAGE */}
-    <img src="Ressources\Personnage.png" className="img-fluid col-lg-2 col-0 d-none d-lg-block"/>
+    <img src="../Ressources\Personnage.png" className="img-fluid col-lg-2 col-0 d-none d-lg-block"/>
     </div>
     </div>
 }
